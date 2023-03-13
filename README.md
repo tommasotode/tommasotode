@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hello!
+I study computer science in an italian high school, and I am 17 years old.
 
-<!--
-**TommasoTodescato/TommasoTodescato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Currently learning pure functional programming and operating systems.
+- ☄️ I like having a deep understanding of how everything works at a low level.
+- 💡 Would love to collaborate to open source projects. 
+- 📊 I love simple architectures and efficient implementations.
 
-Here are some ideas to get you started:
+## Competences
+I like to learn things from scratch and I tend to make projects with different technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⌨️ Linux user and learner.
+- 📄 Experience with different programming languages, such as:
+  
+  - C
+  - Python
+  - JavaScript
+  - Elixir
+  
+
+[![TommasoTodescato's GitHub stats](https://github-readme-stats.vercel.app/api?username=TommasoTodescato&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
