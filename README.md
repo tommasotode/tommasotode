@@ -11,7 +11,6 @@ I like to learn things from scratch and I tend to make projects with different t
 
 - ⌨️ Linux user and learner.
 - 📄 Experience with different programming languages, such as:
-  
   - C
   - Python
   - JavaScript
