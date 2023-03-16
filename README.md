@@ -2,14 +2,14 @@
 I study computer science in an italian high school, and I am 17 years old.
 
 - 🌱 Currently learning pure functional programming and operating systems.
-- ☄️ I like having a deep understanding of how everything works at a low level.
+- ☄️ I like having a deep understanding of how things works at a low level.
 - 💡 Would love to collaborate to open source projects. 
-- 📊 I love simple architectures and efficient implementations.
+- 📊 I love simple and logical architectures.
 
-## Competences
+## Experience
 I like to learn things from scratch and I tend to make projects with different technologies.
 
-- ⌨️ Linux user and learner.
+- ⌨️ Linux user.
 - 📄 Experience with different programming languages, such as:
   - C
   - Python
