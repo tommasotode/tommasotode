@@ -8,7 +8,6 @@ I study computer science in an italian high school, and I am 17 years old.
 ## Experience
 I like to learn things from scratch and I tend to make projects with different technologies.
 
-- ⌨️ Linux user.
 - 📄 Experience with different programming languages, such as:
   - C
   - Python
