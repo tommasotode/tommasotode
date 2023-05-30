@@ -13,6 +13,3 @@ I like to learn things from scratch and I tend to make projects with different t
   - Python
   - JavaScript
   - Elixir
-  
-
-[![TommasoTodescato's GitHub stats](https://github-readme-stats.vercel.app/api?username=TommasoTodescato&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
