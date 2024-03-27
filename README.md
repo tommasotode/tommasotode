@@ -1,15 +1,14 @@
 ## Hello!
-I study computer science in an italian high school, and I am 17 years old.
+I study computer science in an italian high school, and I am 18 years old.
 
-- 🌱 Currently learning pure functional programming and operating systems.
+- 🌱 Currently learning scientific programming and .
 - ☄️ I like having a deep understanding of how things work at a low level.
 - 💡 Would love to collaborate to open source projects.
 
 ## Experience
-I like to learn things from scratch and I tend to make projects with different technologies.
+I like to learn things from scratch by creating something new and making projects.
 
 - 📄 Experience with different programming languages, such as:
-  - C
+  - C, C++
   - Python
-  - JavaScript
-  - Elixir
+  - JS
