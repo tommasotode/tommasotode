@@ -1,7 +1,7 @@
 ## Hello!
 I study computer science in an italian high school, and I am 18 years old.
 
-- 🌱 Currently interested in scientific programming and data science.
+- 🌱 Currently interested in scientific programming and robotics.
 - ☄️ I like having a deep understanding of how things work at a low level.
 - 💡 Would love to collaborate to open source projects.
 
